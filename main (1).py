@@ -27,7 +27,7 @@ while stop == 0:
     else:
         stop = 1
 
-# źrudła
+# źródła
 #  https://python.szkola.pl/listy-petle-poziom-calkiem-juz-zaawansowany/
 #  https://ifcode.pl/python-operacje-na-plikach/
 #  https://oprojektowaniu.pl/python-dla-inzynierow-slowniki/
